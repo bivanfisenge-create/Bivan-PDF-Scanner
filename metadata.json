@@ -1,0 +1,6 @@
+{
+  "name": "PDF Scanner",
+  "description": "Fast, privacy-focused offline PDF scanner app with automatic edge detection, perspective correction, AI filters, OCR text extraction, document management, and password security.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
